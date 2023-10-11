@@ -1,4 +1,6 @@
-# Exercicio1
+# Sistema para PetShop
+
+O enunciado exposto abaixo foi extraído de uma atividade prática idealizada por professores da UNINTER, na disciplina de 'Lógica de Programação e Algoritmos'. O objetivo era colocar em prática conceitos inicias da linguagem Python.
 
 Enunciado: Você foi contratado para desenvolver um sistema de cobrança de banho para um petshop. Você ficou com a parte de desenvolver a interface com o funcionário. 
 O petshop opera da seguinte maneira: 
