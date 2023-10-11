@@ -1,5 +1,5 @@
 # Exercicio1
-======================
+
 Enunciado: Você foi contratado para desenvolver um sistema de cobrança de banho para um petshop. Você ficou com a parte de desenvolver a interface com o funcionário. 
 O petshop opera da seguinte maneira: 
 
